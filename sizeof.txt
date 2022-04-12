@@ -1,0 +1,18 @@
+the size of a char is 1
+the size of a short is 2
+the size of an int is 4
+the size of a long is 8
+the size of a float is 4
+the size of a double is 8
+the size of a char * is 8
+the size of a void is 1
+token 0:./cmds
+token 0:./cmds
+token 0:./cmds
+token 0:./cmds
+token 1:this
+token 2:is
+token 3:a
+token 4:list
+token 5:of
+token 6:tokens
